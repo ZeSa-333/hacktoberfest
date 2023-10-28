@@ -1,3 +1,8 @@
+#### Name: Sarah
+ - Place: Puch bei Hallein, Austria
+ - Bio: Student at FH Salzburg
+ - GitHub: ZeSa-333 (https://github.com/ZeSa-333)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
